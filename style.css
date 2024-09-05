@@ -1,0 +1,83 @@
+body {
+    background-color: #00e5ff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    color: #000000;
+    text-align: center;
+}
+
+button {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-weight: 300;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150%;
+    position: relative;
+}   
+
+.vertical-center {
+    margin: 0%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.vertical-center2 {
+    margin: 0%;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.yes-button {
+    margin-left: 20%;
+    border-radius: 10px;
+    border-style: groove;
+
+}
+
+.no-button {
+    margin-left: 3%;
+    border-radius: 10px;
+    border-style: groove;
+    
+}
+
+.yesnobutton {
+    margin-top: 10%;
+    border-style: groove;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 150%;
+    font-weight: 300;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 30%;
+    background-color: bisque;
+    
+}
+
+
+.myNummer1Article {
+    background-color: mediumaquamarine;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    font-size: 150%;
+    font-weight: 300;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.article1paragraph {
+    background-color: mediumaquamarine;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    font-size: 100%;
+    font-weight: 300;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
